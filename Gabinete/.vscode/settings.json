@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "relay.h": "c",
+        "gpio.h": "c",
+        "client.h": "c",
+        "topics.h": "c"
+    }
+}
